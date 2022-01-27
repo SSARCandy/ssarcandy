@@ -1,4 +1,4 @@
-I am Shu-Hsuan Hsu, graduated student of CMLab, National Taiwan University.  
+I am Andy Hsu, graduated student of CMLab, National Taiwan University.  
 Interested in programming and actively share various projects on GitHub, trying to make the world better (or just make my life easier).  
 Learn more about me on my blog 👉 [https://ssarcandy.tw/](https://ssarcandy.tw/)
 
